@@ -1,0 +1,4 @@
+RANGE_ID	START_IPADDRESS	END_IPADDRESS	DESCRIPTION
+Range1	10.215.0.1	10.215.0.25	Range1 Description
+Range2	10.34.112.0	10.34.112.254	Range2 Description
+Not Range	10.35.100.0	10.35.100.0	Not Range Description
