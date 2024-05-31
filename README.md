@@ -1,5 +1,5 @@
 # IP-Expand
-Script to expand a list of IP ranges to the list of individual IPI addresses
+I just needed to expand IP ranges for some data processing so I wrote this script to expand a list of IP ranges to a list of individual IP addresses
 
 The input file is called ip-ranges.txt and is a TAB separated file with 4 fields
 1. Range ID
